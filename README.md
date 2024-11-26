@@ -12,8 +12,11 @@ This repository implements a high-performance matrix multiplier accelerator usin
 Matrix multiplication is a critical operation in many fields, including scientific computing, machine learning, and computer graphics. Traditional MAC-based multipliers are efficient but can become computationally expensive for large matrices. This project accelerates the multiplication by:
 1. Using a **systolic array** to perform the operations in parallel.
 2. Replacing the MAC units with **Karatsuba multipliers**, which are known for their efficiency in large integer multiplication.
-3. 
+
+
+
 ![image](system_design.png)
+
 
 
 ### Supported Matrix Dimensions
