@@ -13,7 +13,7 @@ Matrix multiplication is a critical operation in many fields, including scientif
 1. Using a **systolic array** to perform the operations in parallel.
 2. Replacing the MAC units with **Karatsuba multipliers**, which are known for their efficiency in large integer multiplication.
 3. 
-![image](https://github.com/user-attachments/assets/abfa87ac-d381-4b81-8199-161f947759c4)
+![image](system_design.png)
 
 
 ### Supported Matrix Dimensions
